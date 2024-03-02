@@ -11,7 +11,7 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the repository to your local machine:
-git clone https://github.com/your-username/car-details-app.git
+git clone https://github.com/NashTech-Labs/api_calls_reactjs.git
 
 Navigate to the project directory:
 cd car-details-app
